@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Flower
+  - Obstacle
+  - Wind
+  - Kilzone
+  - Border
+  - BorderDespawner
+  - Cloud
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Coin
+    uniqueID: 258269691
+    locked: 0
+  - name: Branch
+    uniqueID: 198329559
+    locked: 0
+  - name: Cloud
+    uniqueID: 2698137925
+    locked: 0
+  - name: Air
+    uniqueID: 3406892639
+    locked: 0
+  - name: Border
+    uniqueID: 2182295063
+    locked: 0
+  - name: Flower
+    uniqueID: 3628867605
+    locked: 0
